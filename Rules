@@ -14,4 +14,3 @@ Rules-
 10.Use specific error messages in exeception handling.
 11.Always use style sheet to control the look and feel of the pages. Never specify font name and font size in any of the pages.
 12.Do not store large objects in session. Storing large objects in session may consume lot of server memory depending on the number of users.
-hi
